@@ -1,0 +1,10 @@
+C:\Users\Zjhel\source\repos\HellwegActivity11\HellwegActivity11\bin\Debug\HellwegActivity11.exe.config
+C:\Users\Zjhel\source\repos\HellwegActivity11\HellwegActivity11\bin\Debug\HellwegActivity11.exe
+C:\Users\Zjhel\source\repos\HellwegActivity11\HellwegActivity11\bin\Debug\HellwegActivity11.pdb
+C:\Users\Zjhel\source\repos\HellwegActivity11\HellwegActivity11\obj\Debug\HellwegActivity11.csproj.AssemblyReference.cache
+C:\Users\Zjhel\source\repos\HellwegActivity11\HellwegActivity11\obj\Debug\HellwegActivity11.Properties.Resources.resources
+C:\Users\Zjhel\source\repos\HellwegActivity11\HellwegActivity11\obj\Debug\HellwegActivity11.csproj.GenerateResource.cache
+C:\Users\Zjhel\source\repos\HellwegActivity11\HellwegActivity11\obj\Debug\HellwegActivity11.csproj.CoreCompileInputs.cache
+C:\Users\Zjhel\source\repos\HellwegActivity11\HellwegActivity11\obj\Debug\HellwegActivity11.exe
+C:\Users\Zjhel\source\repos\HellwegActivity11\HellwegActivity11\obj\Debug\HellwegActivity11.pdb
+C:\Users\Zjhel\source\repos\HellwegActivity11\HellwegActivity11\obj\Debug\HellwegActivity11.EmployeeForm.resources
